@@ -1,0 +1,31 @@
+body{
+    background-color: #A3BCB6;
+    /* margin: 0 auto; */
+        
+}
+.center{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.text{
+    margin: 1.5rem 0.5rem;
+    padding: 2rem;
+    width: 500px;
+    height: 100px;
+    resize: none;
+    max-width: 600px;
+    background-color: #e8e5d7;
+}
+#btn{
+    margin: 0rem 0.5rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: white;
+    background-color: black;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
